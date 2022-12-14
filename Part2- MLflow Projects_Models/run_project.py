@@ -14,7 +14,9 @@ if __name__ == '__main__':
    # Suppress any deprcated warnings
    warnings.filterwarnings("ignore", category=DeprecationWarning)
    parameters = {'convSize': 2, 'epochs': 5}
-   ml_project_uri ="git://github.com/Isaac4real/MLflow_Project.git"
+   ml_project_uri ='github.com/hvbosna/MLflow_Project'
+   # "git://github.com/Isaac4real/MLflow_Project.git"
+
 
    # Iterate over three different runs with different parameters
    print("Running with param = ",parameters)
