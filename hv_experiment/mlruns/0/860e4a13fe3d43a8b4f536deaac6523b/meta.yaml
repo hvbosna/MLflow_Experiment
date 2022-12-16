@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Documents/Github/MLflow_Experiment/hv_experiment/mlruns/0/860e4a13fe3d43a8b4f536deaac6523b/artifacts
+end_time: 1671193731928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 860e4a13fe3d43a8b4f536deaac6523b
+run_name: smiling-vole-205
+run_uuid: 860e4a13fe3d43a8b4f536deaac6523b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671193731851
+status: 3
+tags: []
+user_id: User
